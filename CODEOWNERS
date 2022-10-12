@@ -1,1 +1,14 @@
-hello world :wave:
+# Can have a single file
+GETTING_STARTED.md @dwight
+
+# or a directory…
+models/integrations @your-org/integrations-team
+
+# or a wildcard
+*.js @frontend-team
+
+# directories with wildcards only do one level
+docs/* @docs-team
+
+# but you can use globbing
+docs/**/*.md @docs-team
