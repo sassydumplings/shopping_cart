@@ -119,11 +119,11 @@ product mock service and the shopping cart service.
 ## Dependencies
 here they are
 
+## Disaster Recovery
+testing testing testing, 1,2,3
+
 ## Backups
 hold onto your butts
-
-## Disaster Recovery
-fingers crossed
 
 ### Run the Frontend Locally
 
