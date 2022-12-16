@@ -116,6 +116,14 @@ Build and deploy the resources:
 make backend  # Creates S3 bucket if not existing already, then deploys CloudFormation stacks for authentication, a 
 product mock service and the shopping cart service.  
 ```
+## Dependencies
+here they are
+
+## Backups
+hold onto your butts
+
+## Disaster Recovery
+fingers crossed
 
 ### Run the Frontend Locally
 
