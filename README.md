@@ -17,11 +17,19 @@ by [Michael Hartl](http://michaelhartl.com/). You can use this reference impleme
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then you can debug your code by comparing it with the reference implementation.
 
+## Backups
+a
+b
+c
+d
+e
+
 ## Dependencies
-here they are
+1
+2
+3
 
 ## Disaster Recovery
-testing testing testing, 1,2,3
-
-## Backups
-hold onto your butts
+x
+y
+z
